@@ -1,4 +1,4 @@
-# demo-template
+# tutoriel codespace
 
 ## Objectifs
 
@@ -176,3 +176,11 @@ git push
 
 - Ouvrez ensuite votre dépôt GitHub dans le navigateur de votre PC et vérifiez que tous les fichiers de votre projet dans Codespaces ont bien été ajoutés à votre dépôt distant. 
 
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+# modified: README.md
